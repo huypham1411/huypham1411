@@ -1,5 +1,5 @@
 # ![icon-user](https://simp4.jpg.church/man.png) About Me:
-A normal developer interested in the field of art and a weeboo
+A normal developer interested in the field of art and a weeb :P
 
 
 # ![icon-user](https://simp4.jpg.church/network.png) Socials:
