@@ -1,8 +1,8 @@
-# ![icon-user](https://simp4.jpg.church/man.png) About Me:
+# :technologist: About Me:
 A normal developer interested in the field of art and a weeb :P
 
 
-# ![icon-user](https://simp4.jpg.church/network.png) Socials:
+# :globe_with_meridians: Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/huyphamquoc1411/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-pham-quoc-a3391b230/)
 
